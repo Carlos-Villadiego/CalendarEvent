@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Events Creator</string>
+    <string name="txtagg">Agregar Evento</string>
+    <string name="btnopen">ABRIR CALENDARIO</string>
+    <string name="txttitulo">Titulo del evento</string>
+    <string name="txtdescripcion">Descripcion del evento</string>
+    <string name="txtlocalization">Localizacion del evento</string>
+    <string name="txtdatestart">Fecha Inicio</string>
+    <string name="txtdateend">Fecha Fin</string>
+    <string name="txthourstart">Hora Inicio</string>
+    <string name="txthourend">Hora Fin</string>
+    <string name="txtemail">Email del invitado</string>
+    <string name="txtrecurrence">Recurrencia</string>
+    <string name="rgday">Diaria</string>
+    <string name="rgmonth">Mensual</string>
+    <string name="rgyear">Anual</string>
+    <string name="txtnumdays">Numero de dias</string>
+    <string name="rgweek">Semanal</string>
+    <string name="rgnever">Nunca</string>
+</resources>
